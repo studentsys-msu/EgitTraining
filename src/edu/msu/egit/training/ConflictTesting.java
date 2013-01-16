@@ -5,7 +5,7 @@ public class ConflictTesting {
 	public static void main(String[] args) {
 		
 		//Some comments here
-		System.out.println("Hello small world.");
+		System.out.println("Hello something world.");
 		
 		// Rich added.
 		System.out.println("Rich says hello.");
