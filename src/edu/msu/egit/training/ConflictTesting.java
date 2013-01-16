@@ -7,6 +7,9 @@ public class ConflictTesting {
 		//Some comments here
 		System.out.println("Hello something world.");
 		
+		//Here's some work for my branch.
+		System.out.println("Some work on a local branch");
+		
 		// Rich added.
 		System.out.println("Gary says hey.");
 	}
