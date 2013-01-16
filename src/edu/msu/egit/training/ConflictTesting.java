@@ -8,7 +8,7 @@ public class ConflictTesting {
 		System.out.println("Hello something world.");
 		
 		// Rich added.
-		System.out.println("Rich says hello.");
+		System.out.println("Rich says hey.");
 	}
 
 }
