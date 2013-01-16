@@ -6,7 +6,7 @@ public class ConflictTesting {
 		System.out.println("hello world");
 		
 		
-		System.out.println("Rich says hello");
+		System.out.println("Rich says hello.");
 	}
 
 }
