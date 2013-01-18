@@ -12,6 +12,10 @@ public class ConflictTesting {
 		
 		// Rich added.
 		System.out.println("Squidward says hey.");
+		
+		//Mike
+		MikeClass mikeClass = new MikeClass();
+		mikeClass.sayThis();
 	}
 
 }
