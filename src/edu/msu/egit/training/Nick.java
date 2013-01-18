@@ -5,6 +5,10 @@ public class Nick {
 	System.out.println("Hey Doctor Nick!");
 	}
 	
-	10 PRINT "Hi Nick!"
-	20 GO TO 10
+//	10 PRINT "Hi Nick!"
+//	20 GO TO 10
+	
+	static {
+		System.out.println("This isn't assembly...");
+	}
 }
