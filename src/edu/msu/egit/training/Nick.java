@@ -5,6 +5,6 @@ public class Nick {
 	System.out.println("Hey Doctor Nick!");
 	}
 	
-	10 PRINT "Hi Nick!"
+	10 PRINT "Hey Ev'rybody!"
 	20 GO TO 10
 }
