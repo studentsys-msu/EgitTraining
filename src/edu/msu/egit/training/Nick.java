@@ -12,4 +12,11 @@ public class Nick {
 	static {
 		System.out.println("This isn't assembly...");
 	}
+	
+//	10 PRINT "Hi Nick!"
+//	20 GO TO 10
+	
+	static {
+		System.out.println("My name ain't baby...");
+	}
 }
