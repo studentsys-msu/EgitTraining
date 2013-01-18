@@ -10,6 +10,6 @@ public class Nick {
 //	20 GO TO 10
 	
 	static {
-		System.out.println("This isn't assembly...");
+		System.out.println("My name ain't baby...");
 	}
 }
