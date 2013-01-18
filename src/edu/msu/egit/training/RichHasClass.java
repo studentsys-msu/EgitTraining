@@ -1,7 +1,8 @@
 package edu.msu.egit.training;
 
 public class RichHasClass {
-	static {
-		System.out.println("Rich has class.");
+	
+	public static void tellUsAboutYourself() {
+		System.out.println("Rich has eClass");
 	}
 }
